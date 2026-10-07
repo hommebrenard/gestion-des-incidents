@@ -1,0 +1,6 @@
+{
+  "name": "GMAO - Gestion des Demandes d'Intervention",
+  "description": "Système de GMAO pour la saisie, le suivi et le traitement des Demandes d'Intervention (DI) et Ordres de Travail (OT).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
